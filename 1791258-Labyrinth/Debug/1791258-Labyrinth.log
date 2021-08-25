@@ -1,0 +1,81 @@
+﻿  main.c
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(140): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(280): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(281): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(286): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(266): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(266): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(555): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(556): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(561): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(541): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(541): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(826): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(827): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(832): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(812): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(812): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1120): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1121): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1126): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1106): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1106): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1425): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1426): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1451): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1458): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1465): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1471): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1472): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1504): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1511): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1518): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1525): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1532): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1539): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1546): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1553): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1559): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1560): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1584): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1585): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1593): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1841): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1848): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1855): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1862): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1870): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1871): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1894): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1901): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1908): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1915): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1923): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\1791258-labyrinth\1791258-labyrinth\main.c(1924): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  1791258-Labyrinth.vcxproj -> C:\Users\pc\Desktop\1791258-Labyrinth\Debug\1791258-Labyrinth.exe
